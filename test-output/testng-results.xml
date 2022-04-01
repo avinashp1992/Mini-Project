@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="220" started-at="2022-03-20T05:26:12 PDT" finished-at="2022-03-20T05:26:12 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="220" started-at="2022-03-20T05:26:12 PDT" finished-at="2022-03-20T05:26:12 PDT">
+      <class name="com.testng.prgms.pms$testngparameter">
+        <test-method status="PASS" signature="getusername(java.lang.String, java.lang.String)[pri:0, instance:com.testng.prgms.pms$testngparameter@49fc609f]" name="getusername" duration-ms="24" started-at="2022-03-20T05:26:12 PDT" data-provider="testdata" finished-at="2022-03-20T05:26:12 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getusername -->
+        <test-method status="PASS" signature="getusername(java.lang.String, java.lang.String)[pri:0, instance:com.testng.prgms.pms$testngparameter@49fc609f]" name="getusername" duration-ms="7" started-at="2022-03-20T05:26:12 PDT" data-provider="testdata" finished-at="2022-03-20T05:26:12 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Avi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[323]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getusername -->
+      </class> <!-- com.testng.prgms.pms$testngparameter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
